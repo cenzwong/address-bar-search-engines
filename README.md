@@ -14,4 +14,5 @@ This is the list of links that for address bar searching
 | jirasearch | jira | https://{}.atlassian.net/secure/QuickSearch.jspa?searchString=%s | 
 | Confluence | confluence | https://tceu.atlassian.net/wiki/search?text=%s |
 | CopilotSearch | cs | https://www.bing.com/copilotsearch?q=%s |
+| Google AI Mode | gai | https://www.google.com/search?q=%s&udm=50 |
 
