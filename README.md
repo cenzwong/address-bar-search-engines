@@ -3,7 +3,7 @@ This is the list of links that for address bar searching
 
 | Search Engine | Shortcut | URL with %s in place of query
 |---|---|---|
-|Bing |b |{bing:baseURL}search?q=%s&{bing:cvid}{bing:msb}{google:assistedQueryStats}|
+|Bing |b | https://www.bing.com/search?q=%s |
 | Google | g | https://www.google.com/search?q=%s |
 | PySpark docs | pyspark | https://spark.apache.org/docs/latest/api/python/search.html?q=%s|
 | PYthon docs | python | https://docs.python.org/3/search.html?q=%s |
