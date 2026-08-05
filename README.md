@@ -3,7 +3,7 @@ This is the list of links that for address bar searching
 
 | Search Engine | Shortcut | URL with %s in place of query
 |---|---|---|
-|Bing |b | https://www.bing.com/search?q=%s |
+| Bing | b | https://www.bing.com/search?q=%s |
 | Google | g | https://www.google.com/search?q=%s |
 | PySpark docs | pyspark | https://spark.apache.org/docs/latest/api/python/search.html?q=%s|
 | PYthon docs | python | https://docs.python.org/3/search.html?q=%s |
@@ -16,3 +16,5 @@ This is the list of links that for address bar searching
 | CopilotSearch | cs | https://www.bing.com/copilotsearch?q=%s |
 | Google AI Mode | gai | https://www.google.com/search?q=%s&udm=50 |
 | Perplexity | p | https://www.perplexity.ai/search/new?q=%s&s=d&erp=tab |
+| ChatGPT | chatgpt | https://chatgpt.com/?q=%s |
+| MS Copilot | copilot | https://copilot.microsoft.com/?q=%s&form=EDGAAC |
